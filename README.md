@@ -37,21 +37,6 @@ No episódio de estreia, debatemos um tema atual e polêmico:
 
 ---
 
-## 🗂️ Estrutura do Repositório
-
-/
-├── audio/
-│ └── episodio1.mp3 # Áudio do episódio completo
-├── roteiro/
-│ └── episodio1.md # Roteiro original do episódio
-├── imagens/
-│ └── capa_podcast.jpg # Capa oficial do podcast
-├── README.md # Este arquivo
-└── LICENSE # Licença do projeto
-
-
----
-
 ## 🧩 Tecnologias e Ferramentas Usadas
 
 - 🤖 **ChatGPT (GPT-5)** – Apoio na roteirização e revisão  
